@@ -1,0 +1,484 @@
+{
+  "templates": [
+    {
+      "name": "'content listing page'",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://academy.worldbank.org/en/cross-cutting/jobs",
+          "uuid": "5af7996d692e0fb80fc747efb3060aeee8c2c665"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/cross-cutting/data",
+          "uuid": "b0b673944d5633aab4aaf67cff92d5e5b01c6f4b"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/cross-cutting/gender",
+          "uuid": "9d52274aa97abde3694f6984e31d21d31bbc8c14"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/cross-cutting/integrity",
+          "uuid": "b644fbc0008e3609c6cbe3fc3187352dfa6a8629"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/digital/digital-transformation",
+          "uuid": "969cfbcc26a1883504be7974e8ed9fb37966177c"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/education",
+          "uuid": "0212f2aec15af2974ea5992ddadb3f48ec5c54f4"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health",
+          "uuid": "215f3a413cac42bc448285002a3851c0d48b42e8"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/social-protection",
+          "uuid": "fa16ea5aa069233d964ad6a8615f712c5a7804bd"
+        }
+      ]
+    },
+    {
+      "name": "'Informational Page'",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://academy.worldbank.org/en/our-programs/by-instrument",
+          "uuid": "5c2e540de08a6c4640be8e21f4d1d9e4e87f7412"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/our-programs/by-theme/low-methane-rice",
+          "uuid": "5295543600d8501a19def2b3c966c654de529ef3"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/our-programs/by-theme/jobs-through-local-value-chain",
+          "uuid": "0c944d346ad1551ea9548680da0006362ab0bacd"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/our-programs/by-theme/accelerating-emobility",
+          "uuid": "0ba02fa41482f0a36409ea83f5971522c1896704"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/our-programs/by-theme/domestic-resource-mobilization",
+          "uuid": "5358b46f8cefc253c141aa06dc822b6a084bfb95"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/our-programs/by-theme/jobs-for-the-poor",
+          "uuid": "c270192363e9b189c9559b2d70e4fdb9e464e0df"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/our-programs/by-theme/drought-management",
+          "uuid": "04bece085ae3f167247e384b474c2d371f68d871"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/our-programs/by-theme/liveable-landscapes",
+          "uuid": "724cb536a8fc5e2d5dbd71bd83964e0a353b5671"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/our-programs/by-theme/climate-risk-finance",
+          "uuid": "4de9643b85b85bcb698878e50e7e74b1b7c95cdb"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/our-programs/by-theme/debt-vulnerability-resilience",
+          "uuid": "e1a4f440c1d22777f9c004c8f25dafec86d6a87c"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/our-programs/by-theme/sustaining-health-financing",
+          "uuid": "0bd26c5a5c77c7647153077a96b9591dcb350002"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/our-programs/by-theme/powering-utilities",
+          "uuid": "38e812127d984b3a04e216f4229dee17b52c262c"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/our-programs/by-theme/repurposing-agricultural-support-for-soil-health",
+          "uuid": "ef036ff76a84ded8677bebe3c0cecacacabed2b8"
+        }
+      ]
+    },
+    {
+      "name": "'Academy Dashboard'",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://academy.worldbank.org/en/our-programs",
+          "uuid": "9e3607d5a50eb921a9393c422ba48d4e7e794e07"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/events",
+          "uuid": "59ebe54f2646d4cbce8b244d02e408aa3a416f55"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/resource",
+          "uuid": "ce57989b3f0c1bea3cf4c3fcabca4f856e07b84d"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/how-we-work",
+          "uuid": "110a2ea91c6ade23604d57800353c14af3ef3a7f"
+        }
+      ]
+    },
+    {
+      "name": "'Course Listing'",
+      "cluster": 4,
+      "pages": [
+        {
+          "url": "https://academy.worldbank.org/en/people/education/supporting-higher-education-institutions",
+          "uuid": "6401e68696fa35cf39cee9f2ac02222a3c5db8ec"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/education/africa-skills-for-jobs-policy-academy",
+          "uuid": "8a48d34eb6e2514b1d0a49690dfa0c7dbae423d7"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/education/designing-for-impact-optimizing-investments-in-physical-learning-environments",
+          "uuid": "e6a19239453fbc494e73485b3bc91bcdc0c215f6"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/education/disability-inclusion-in-education-module-1",
+          "uuid": "e3500c6495ed28dc91c798575c9ffdad43a6fb3e"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/education/education-finance",
+          "uuid": "b67071e490ec4c4f09665073b6d73e85d171175d"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/education/results-based-financing-in-education",
+          "uuid": "39fed80cee6f809dd49cda3f475975375f952939"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/education/student-assessment-for-practitioners-and-policy-makers",
+          "uuid": "4fc54ca8708f1af804a875cb79eb8ae1e9509063"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/education/operationalizing-disability-inclusion-in-education",
+          "uuid": "c055fa3b42d54f4a21b8e742fb58f6acbef851f9"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/education/literacy-policy",
+          "uuid": "194accf4d546ccc6455405a221e538394fbfc143"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/education/micro-credentials",
+          "uuid": "6d67b58b100780bba7470fd2ca115ab0c3314a33"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/education/introduction-to-investing-in-childcare",
+          "uuid": "78a7b1181326208fda3958b6ae2fd39c806c359b"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/education/career-service-fundamentals",
+          "uuid": "32071eef22d1fb296a1fad68f0faa3e62b58fece"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/education/capacity-building-for-learning-and-dev-professionals",
+          "uuid": "a11fc359c04a08ccb15966f8bb42b5b55a56fed1"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/education/introduction-to-inclusive-education",
+          "uuid": "f39b3292fa18c5bdaa686f4ae0726b5530cc277d"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/education/edtech",
+          "uuid": "c350ab5537eb11981051e027accc0793e9404891"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/education/building-effective-early-learning-systems",
+          "uuid": "ef6411a99f7a4c83e827e0d598eab1142baa8f60"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/education/quality-early-learning",
+          "uuid": "b6d9df8ffecb9a673de39e4ba149f06ce2b032fd"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/education/student-assessment-for-policymakers-and-practitioners",
+          "uuid": "7ad424d9f4f4fa8a49597318c28c34e29256e2c7"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/education/teachers-101-fundamentals-of-teacher-policy-course",
+          "uuid": "f70f8b72922ac5d815f1d5c34e1261369946880d"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/education/disability-inclusion-in-education-module-2",
+          "uuid": "73f0048adf205ff5a1428bee975eccd0f8d05402"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/education/leadership-for-progress-in-foundational-learning-leap-better-data-for-better-learning",
+          "uuid": "25d7d568a4a8fdc22ae9e5580c457d871b1e5e64"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/education/learning-through-play",
+          "uuid": "36edd6b74391e79718f7fba46f329694265d3851"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/education/measuring-early-childhood-development-outcomes",
+          "uuid": "fcbe2c7e157264ce08dc4e2c17a39893b3714b78"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/education/measuring-early-childhood-education-quality",
+          "uuid": "3002b9c47a1db052025b250ff0e73ee0b3933b6b"
+        }
+      ]
+    },
+    {
+      "name": "'Directory Listing'",
+      "cluster": 5,
+      "pages": [
+        {
+          "url": "https://academy.worldbank.org/en/our-programs/by-theme",
+          "uuid": "268bc3dd5d19ab59703bf103cba7ec6a39ca7ea8"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/our-programs/by-sector",
+          "uuid": "4c8f03d8e4b29f3b84b6b2bf14c33fc4a1be2cd8"
+        }
+      ]
+    },
+    {
+      "name": "'Category Overview Page'",
+      "cluster": 6,
+      "pages": [
+        {
+          "url": "https://academy.worldbank.org/en/prosperity/capital-market",
+          "uuid": "b8f48405e48b3de11aab09e93bd529e5ad18c28f"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/prosperity/economic-policy",
+          "uuid": "a99d67a7debec8d77276eedab398c9523665229b"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/prosperity/trade-investment-competitiveness",
+          "uuid": "f53297a4c8d13af5cbfa5ed3c1bc2a1be548a34f"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/prosperity/institutions",
+          "uuid": "36b84849778aef79eb813ba6df7cf2e082e25d9a"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/prosperity/fci",
+          "uuid": "22471182f419f1d831ab0f46a6846599b2083793"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/prosperity/poverty",
+          "uuid": "49fb6967439fb5f3b4873b709e482699247b9008"
+        }
+      ]
+    },
+    {
+      "name": "'Category Listing Page'",
+      "cluster": 7,
+      "pages": [
+        {
+          "url": "https://academy.worldbank.org/en/planet/climate-change",
+          "uuid": "53aa412d6589ae97430d4c44b0b32d00c172bfb0"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/water",
+          "uuid": "e3e64bbaff0a87ca681fb3f1514af40c939c824f"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/environment",
+          "uuid": "86b793e8fe9a576d6c3645f69501d98ae400030d"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/agriculture",
+          "uuid": "8fbc509616a2a15b4c1ca72ea6770386693e1a63"
+        }
+      ]
+    },
+    {
+      "name": "'Portfolio Showcase'",
+      "cluster": 8,
+      "pages": [
+        {
+          "url": "https://academy.worldbank.org/en/home",
+          "uuid": "0b55bc0a19c206c62f3cd30478048a251938ad54"
+        }
+      ]
+    },
+    {
+      "name": "'course listing page'",
+      "cluster": 9,
+      "pages": [
+        {
+          "url": "https://academy.worldbank.org/en/planet/agriculture/ifc-food-safety-reforms-course-learning-from-the-best",
+          "uuid": "afdf09079b37fae1b1c67d8900f7a8cdf32e7c4c"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/agriculture/ifc-food-safety-reform-training",
+          "uuid": "940d2e4623466bc877e9d5c298b008daff1e138c"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/agriculture/foodborne-illnesses-and-personal-hygiene",
+          "uuid": "060c03f33f85b43db38302fe7444520b738837e0"
+        }
+      ]
+    },
+    {
+      "name": "'service overview page'",
+      "cluster": 10,
+      "pages": [
+        {
+          "url": "https://academy.worldbank.org/en/people/health/jln-country-core-group-cop-community-of-practice",
+          "uuid": "d9d57daae50efc35bc83e89d81535e5393cb2f5f"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health/annual-health-financing-forum-ahff",
+          "uuid": "99ddd7e2bde2380595796c89d8b4b790f38e5f19"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health/addressing-antimicrobial-resistance",
+          "uuid": "4c51cc0dd9395d3814578b2c789ea2835b38e73d"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health/behavior-change-for-health-system-strengthening-and-achieving-universal-health-coverage",
+          "uuid": "ec909cc718b261757af3d67cf98db269cdf4da97"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health/attacking-inequalities-in-health",
+          "uuid": "62a867d5c6adaa4f564241c3947fc49560e930d7"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health/school-health-nutrition",
+          "uuid": "5d0564f67c824aaecf2fa94650dc9dfb46b5af75"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health/the-operationalization-of-one-health-course-ii-putting-one-health-into-practice",
+          "uuid": "ee6f173c1c1fc9c1b6632b169ca023e8caf302af"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health/jln-health-emergency-preparedness-hep-collaborative",
+          "uuid": "e8138f382317f98ef6c790dbc764eb70f4d490e0"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health/health-systems-flagship-program",
+          "uuid": "60a6642411e430e7a68bf97fe31f3aaa7f5655e8"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health/gender-and-universal-health-coverage",
+          "uuid": "88856aa1beba3cf36d03bd64449989ffc9a03832"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health/nutrition-responsive-budgeting",
+          "uuid": "3864c58c14b663266dd473ffe3fa591daffff9e5"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health/food-prices-for-nutrition-cost-and-affordability-of-a-healthy-diet-and-other-indicators",
+          "uuid": "3de03696dc212d373c6fb638a8677f80f25daab0"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health/decentralization-to-enhance-health-system-performance",
+          "uuid": "447adaf0cfce0cdaa9ec2710a3ee048ddab6add2"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health/building-a-safe-surgery-culture",
+          "uuid": "3ffa45760fe6917695c58ae6e5a48e9902833f03"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health/foundations-of-healthcare-quality-management",
+          "uuid": "0f1fd89a686fb41a1784fe71db087eaf6dda9347"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health/human-resource-for-health",
+          "uuid": "a9fdd94cf62cd2eda452deaa007df78145c4966a"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health/social-health-insurance",
+          "uuid": "223aa8ab952728808f7c3ae55679a35bed63246f"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health/the-operationalization-of-one-health-course-i-introduction-to-the-one-health-approach",
+          "uuid": "2ddeda0dca9c86f0d9194f2079acfd0719e83dd2"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health/implementing-a-hand-hygiene-program-to-prevent-the-spread-of-infectious-disease",
+          "uuid": "285d1386b3be050c445261890ee5a6548e91ea5e"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health/implementing-a-fall-prevention-program",
+          "uuid": "4752dc972f1f70d088f96ffa5ee4ef3da48e4217"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health/jln-efficiency-collaborative",
+          "uuid": "2995c8d4736d8aac494ed9d323d6a1b34a934883"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health/jln-domestic-resource-mobilization-collaborative",
+          "uuid": "cd8df75e0059c607f3ea6617a0e9e806b7987a54"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health/jln-digital-health-collaborative",
+          "uuid": "e6bece3c25903f9857f212cc45bcbb4da75b0db6"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health/jln-climate-smart-health-systems-collaborative",
+          "uuid": "dc033bfb572677ecba28b4e6afbd84848fb7d534"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health/improving-effective-communication",
+          "uuid": "fc0f60e37bddee077af14a3eab94ce2575fbbf1d"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health/incident-management-system",
+          "uuid": "22cdab044e6c2bd9e7f2219f1430305e643b97aa"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health/implementing-an-isolation-program-to-prevent-the-spread-of-infectious-disease",
+          "uuid": "2c420bbb617b93acc96a499e7f83d50aa35fa90c"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health/improve-the-safety-of-high-alert-medications-hams",
+          "uuid": "324557ab6548cc8dbaa49e3cceca70e65411d6d2"
+        }
+      ]
+    },
+    {
+      "name": "'Category Overview Page'",
+      "cluster": 11,
+      "pages": [
+        {
+          "url": "https://academy.worldbank.org/en/infrastructure/infrastructure-finance",
+          "uuid": "b1d744e4b4046e4a6e936c309e07926f649cb6c3"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/infrastructure/transport",
+          "uuid": "0851a393be181e9b85a1c6190f6acc9564bbb55f"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/infrastructure/urban-resilience",
+          "uuid": "8961d6139b2509c9d3edf536cf3b6d4f2d2b304f"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/infrastructure/energy",
+          "uuid": "3edd7f855fc75a92edce78bbcd5f83c7f9ab49eb"
+        }
+      ]
+    },
+    {
+      "name": "'Article Listing Page'",
+      "cluster": 12,
+      "pages": [
+        {
+          "url": "https://academy.worldbank.org/en/people/social-protection/how-to-leverage-safety-nets-to-prevent-gender-based-violence",
+          "uuid": "ebf201a43ba238ae5be6801f20f6dbfd9d2d61dd"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/social-protection/south-south-learning",
+          "uuid": "87e30126d3bc89ecdf9266020ccfde46242fa090"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/social-protection/adaptive-social-protection",
+          "uuid": "1413824ad23c6104a2b050a2f394e6fbc5f3eff3"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/social-protection/understanding-pensions",
+          "uuid": "6ec8679300aa7f5958e457a8ebb52420d456f23b"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/social-protection/key-concepts-and-topics-on-jobs",
+          "uuid": "48168ce57cd3aeeffde0b60246c95c866fc6e7c6"
+        }
+      ]
+    }
+  ]
+}
