@@ -3645,16 +3645,7 @@
           "uuid": "ec909cc7-02-d8e466075b8852aa0e1a5d06d14dfdd0c49c1353",
           "xpath": "/html[1]/body[1]/main[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
           "section": "section-2"
-        }
-      ]
-    },
-    {
-      "name": "Columns",
-      "cluster": 11,
-      "source": "Columns",
-      "target": "Columns (columns11)",
-      "key": "columns11",
-      "instances": [
+        },
         {
           "url": "https://academy.worldbank.org/en/people/education/supporting-higher-education-institutions",
           "urlHash": "6401e68696fa35cf39cee9f2ac02222a3c5db8ec",
